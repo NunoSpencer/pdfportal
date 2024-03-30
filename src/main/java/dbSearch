@@ -1,0 +1,14 @@
+public class dbSearch
+{
+    private String searchBook_input_str;                        //what user types in search field to search, if search of an empty -> reload page
+    private String searchBook_book_lang;                        //language user want to search (default 'Any')
+    private String searchBook_book_year;                        //year (how old) user wants book to be (default 'Any', range [2020 - newer] [2019-2015] [2014 - older])
+    private String searchBook_book_numPage;                     //number of pages user wants the book to have 
+
+
+
+
+
+
+
+}
